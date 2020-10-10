@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-09T23:00:06.597Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="W8vLxZSFwLfmNoEBPFG_" version="13.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-10T00:01:36.855Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="DeF385GjT26BY653zIGF" version="13.5.8" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="1428" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1263" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,16 +16,16 @@
         <mxCell id="DFxoOUwJSN-Vv42BanRs-41" value="staff / internal support team" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#0000C2;" vertex="1" parent="1">
           <mxGeometry x="100" y="130" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DFxoOUwJSN-Vv42BanRs-42" value="admin / Fintech contact person" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#0000C2;" vertex="1" parent="1">
+        <mxCell id="DFxoOUwJSN-Vv42BanRs-42" value="admin / Fintech contact person" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#FFD387;" vertex="1" parent="1">
           <mxGeometry x="100" y="290" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DFxoOUwJSN-Vv42BanRs-43" value="developer / anyone can sign up" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#0000C2;" vertex="1" parent="1">
+        <mxCell id="DFxoOUwJSN-Vv42BanRs-43" value="developer / anyone can sign up" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#FFFF00;" vertex="1" parent="1">
           <mxGeometry x="100" y="470" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DFxoOUwJSN-Vv42BanRs-47" value="Sign In / Sign Out" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFF00;" vertex="1" parent="1">
           <mxGeometry x="290" y="300" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="DFxoOUwJSN-Vv42BanRs-48" value="Sign Up / User Onboarding" style="ellipse;whiteSpace=wrap;html=1;fillColor=#36FF3C;" vertex="1" parent="1">
+        <mxCell id="DFxoOUwJSN-Vv42BanRs-48" value="Sign Up / User Onboarding" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFF00;" vertex="1" parent="1">
           <mxGeometry x="280" y="160" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DFxoOUwJSN-Vv42BanRs-50" value="Create Software Product" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFD387;" vertex="1" parent="1">
@@ -43,8 +43,22 @@
         <mxCell id="DFxoOUwJSN-Vv42BanRs-55" value="Get All Users Registered" style="ellipse;whiteSpace=wrap;html=1;fillColor=#36FF3C;" vertex="1" parent="1">
           <mxGeometry x="290" y="440" width="140" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="DFxoOUwJSN-Vv42BanRs-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DFxoOUwJSN-Vv42BanRs-59" target="DFxoOUwJSN-Vv42BanRs-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DFxoOUwJSN-Vv42BanRs-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DFxoOUwJSN-Vv42BanRs-59" target="DFxoOUwJSN-Vv42BanRs-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1090" y="170" />
+              <mxPoint x="1090" y="413" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DFxoOUwJSN-Vv42BanRs-59" value="staff / internal support team" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#0000C2;" vertex="1" parent="1">
           <mxGeometry x="1160" y="120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DFxoOUwJSN-Vv42BanRs-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DFxoOUwJSN-Vv42BanRs-60" target="DFxoOUwJSN-Vv42BanRs-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DFxoOUwJSN-Vv42BanRs-60" value="admin / Fintech contact person" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#0000C2;" vertex="1" parent="1">
           <mxGeometry x="1160" y="280" width="30" height="60" as="geometry" />
@@ -63,6 +77,21 @@
         </mxCell>
         <mxCell id="DFxoOUwJSN-Vv42BanRs-70" value="Legend" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="10" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DFxoOUwJSN-Vv42BanRs-78" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/help-and-support-5/64/phone-call-service-support-customer-128.png;shadow=1;strokeColor=#3D77FF;fillColor=#FFFF00;" vertex="1" parent="1">
+          <mxGeometry x="10" y="80" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DFxoOUwJSN-Vv42BanRs-79" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/help-and-support-5/64/phone-call-service-support-customer-128.png;shadow=1;strokeColor=#3D77FF;fillColor=#FFFF00;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="120" width="49" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="DFxoOUwJSN-Vv42BanRs-81" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.admin_console" vertex="1" parent="1">
+          <mxGeometry x="20" y="254" width="50" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="DFxoOUwJSN-Vv42BanRs-82" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.admin_console" vertex="1" parent="1">
+          <mxGeometry x="20" y="490" width="50" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="DFxoOUwJSN-Vv42BanRs-83" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.admin_console" vertex="1" parent="1">
+          <mxGeometry x="20" y="144" width="50" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
